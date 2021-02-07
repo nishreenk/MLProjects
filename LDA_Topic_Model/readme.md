@@ -16,7 +16,7 @@ WhyTopic Modeling ?
 Topic modelling can be described as a method for finding a group of words known as  topics from a collection of documents that best represents the information in the collection. It can also be thought of as a form of text mining – a way to obtain recurring patterns of words in textual material.
 There are many techniques that can be used to obtain topic models, The algorithms/techniques  used here is: LDA with Gensim and Spacy
 
-![alt text](https://raw.githubusercontent.com/nishreenk/MLProjects/images/Topic_Modeling.jpg?raw=true)
+![Topic_modeling](https://user-images.githubusercontent.com/42014733/107137535-61e0d200-68c2-11eb-8ffa-8de0d4153a48.jpg)
 
 Latent Dirichlet Allocation(LDA) is a popular algorithm for topic modeling with excellent implementations in the Python’s Gensim package.
 What does LDA do?
@@ -32,4 +32,5 @@ It also needs domain expertise to interpret the results
 
 References
 https://github.com/ddangelov/Top2Vec
+
 https://ryanjgallagher.github.io/code/corex/overview
