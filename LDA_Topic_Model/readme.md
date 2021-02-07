@@ -30,7 +30,8 @@ Limitations:
 Topic modeling requires a lot of relevant data and consistent structure to be able to form clusters.
 It also needs domain expertise to interpret the results
 
-References
+References:
+
 https://github.com/ddangelov/Top2Vec
 
 https://ryanjgallagher.github.io/code/corex/overview
